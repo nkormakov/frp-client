@@ -2,6 +2,7 @@ serverAddr = "your_server_addr"
 serverPort = 7000
 auth.method = "token"
 auth.token = "123456789"
+loginFailExit = false
 
 log.to = "/share/frpc.log"
 # trace, debug, info, warn, error
